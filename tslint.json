@@ -22,6 +22,8 @@
         "static-method"
       ]
     }],
-    "arrow-parens": false
+    "arrow-parens": false,
+    "comment-format": false,
+    "only-arrow-functions": false
   }
 }
